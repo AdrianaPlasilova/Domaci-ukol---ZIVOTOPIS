@@ -1,0 +1,96 @@
+body {
+    color: #1f1e1e;
+    background-color: #fff1e6;
+    font-family: "DM Sans", sans-serif;
+
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+  }
+
+
+  h1 {
+    color: white;
+    font-family: "Boldonse", system-ui;
+    font-style: italic;
+    font-size: 80px;
+    text-align: center;
+    margin: 0;
+    text-shadow: 0 3px 10px rgba(0, 0, 0, 0,7);
+  }
+
+  h2 {
+    color: #686462;
+    font-family: "Boldonse", system-ui;
+   
+    font-style: italic;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 0;
+  }
+
+  h3 {
+    color: #686462;
+    font-family: "Boldonse", system-ui;
+   
+    font-style: italic;
+    font-size: 24px;
+    margin-top: 36px;
+  }
+
+  .foto-kdo {
+    width: 200px;
+    border-radius: 50%;
+    float: right;
+    margin: 0 30px 30px 0;
+   
+   }
+
+   .foto-sofu {
+    width: 350px;
+    border-radius: 0px 50px 50px 50px;
+    float: right;
+    margin: 0 0 30px 30px;
+   } 
+
+   .foto-Dante {
+    width: 350px;
+    border-radius: 0px 50px 50px 50px;
+    float: right;
+    margin: 0 0 30px 30px;
+   } 
+
+   .foto-MatyaZoli {
+    width: 250px;
+    border-radius: 50px 0;
+    float: left;
+    margin: 0 30px 30px 0;
+   } 
+
+
+   .foto-Paja {
+    width: 250px;
+    border-radius: 50px 0 50px 50px;
+    float: left;
+    margin: 0 30px 30px 0;
+   } 
+
+   section {
+    padding: 50px 15%;
+    overflow: auto;
+   }
+
+
+
+
+
+
+
+
+  .paticka {
+    background-color: #2c2b2b;
+    text-align: center;
+    color: white;
+    padding: 20px 0;
+    
+   }
