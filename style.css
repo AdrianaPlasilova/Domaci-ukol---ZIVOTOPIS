@@ -6,6 +6,7 @@ body {
     font-size: 20px;
     line-height: 1.5;
     margin: 0;
+
   }
 
 /* NADPISY */
@@ -35,7 +36,7 @@ body {
    
     font-style: italic;
     font-size: 24px;
-    margin-top: 36px;
+    
   }
 
 /* FOTKY */
@@ -48,12 +49,18 @@ body {
    
    }
 
- .Dante,
- .Sofu {
+ .Dante {
     width: 250px;
+    border-radius: 0 50px;
+    float: right;
+    margin: 0 30px 0 10px;
+   } 
+
+   .Sofu {
+    width: 350px;
     border-radius: 50px 0;
     float: left;
-    margin: 0px 50px 30px 0;
+    margin: 0 30px 0 10px;
    } 
 
  
@@ -70,7 +77,7 @@ body {
     width: 250px;
     border-radius: 0 50px;
     float: right;
-    margin: 0 30px 0 30px;
+    margin: 0 30px 0 10px;
    } 
 
   
